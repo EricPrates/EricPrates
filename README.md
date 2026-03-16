@@ -1,6 +1,6 @@
 # EricPrates
 
-Desenvolvedor com foco em **aplicações web e mobile**, com experiência prática em projetos com **TypeScript/JavaScript** e **Java**. Interesse em construir produtos completos, do front-end às integrações e evolução contínua de funcionalidades.
+Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prática em projetos com **TypeScript/JavaScript** e **Java**. Interesse em construir produtos completos, do front-end às integrações e evolução contínua de funcionalidades.
 
 ## Principais projetos
 
@@ -29,7 +29,7 @@ Desenvolvedor com foco em **aplicações web e mobile**, com experiência práti
 
 ## Tecnologias
 
-- **TypeScript / JavaScript** (principalmente em projetos web e mobile)
+- **TypeScript / JavaScript** (principalmente em projetos web)
 - **React / Next.js**
 - **Java**
 - **HTML / CSS / SCSS**
