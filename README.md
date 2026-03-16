@@ -1,36 +1,39 @@
 # EricPrates
 
-Desenvolvedor focado em construir projetos web e mobile, explorando **TypeScript/JavaScript** e **Java**, com interesse em produtos completos (UI, integrações e evolução de features).
+Desenvolvedor com foco em **aplicações web e mobile**, com experiência prática em projetos com **TypeScript/JavaScript** e **Java**. Interesse em construir produtos completos, do front-end às integrações e evolução contínua de funcionalidades.
 
-## Projetos em destaque
+## Principais projetos
 
-- **FitTrack** — treinos de calistenia e musculação com visão de evolução para rede social fitness (Next.js / TypeScript / Supabase / React).  
-  Repositório: https://github.com/EricPrates/FitTrack
+- **FitTrack** — Plataforma para acompanhamento de treinos (calistenia e musculação), com visão de evolução para rede social fitness.  
+  Stack: **Next.js / TypeScript / React / Supabase**  
+  https://github.com/EricPrates/FitTrack
 
-- **ViaCEP Integration** — experimento de integração/consumo do ViaCEP (HTML/CSS/JS).  
-  Repositório: https://github.com/EricPrates/viacep-integration
+- **viacep-integration** — Integração/consumo da API ViaCEP.  
+  Stack: **HTML / CSS / JavaScript**  
+  https://github.com/EricPrates/viacep-integration
 
-- **FreteDeCompras** — projeto em Java voltado a regras/cálculo de frete (Java).  
-  Repositório: https://github.com/EricPrates/FreteDeCompras
+- **FreteDeCompras** — Implementações em **Java** voltadas a regras/cálculo de frete.  
+  https://github.com/EricPrates/FreteDeCompras
 
-- **ZezinEventos** — projeto em Java (Java).  
-  Repositório: https://github.com/EricPrates/ZezinEventos
+- **ZezinEventos** — Projeto em **Java**.  
+  https://github.com/EricPrates/ZezinEventos
 
-- **appVendasMobile** — app em JavaScript (mobile).  
-  Repositório: https://github.com/EricPrates/appVendasMobile
+- **appVendasMobile** — Aplicação mobile em **JavaScript**.  
+  https://github.com/EricPrates/appVendasMobile
 
-- **TravelPackages** — projeto em JavaScript (JavaScript).  
-  Repositório: https://github.com/EricPrates/TravelPackages
+- **TravelPackages** — Projeto em **JavaScript**.  
+  https://github.com/EricPrates/TravelPackages
 
-- **CalculatorPlus_Testes** — projeto com mix de CSS/SCSS/Java/HTML/JS (testes/experimentos).  
-  Repositório: https://github.com/EricPrates/CalculatorPlus_Testes
+- **CalculatorPlus_Testes** — Experimentos e testes (CSS/SCSS/HTML/JS e Java).  
+  https://github.com/EricPrates/CalculatorPlus_Testes
 
-## Stack (atual)
+## Tecnologias
 
-- **TypeScript** (principal) — projetos com Next.js/React
-- **JavaScript** — web e mobile
-- **Java** — projetos e estudos
-- **HTML/CSS/SCSS** — UI e protótipos
+- **TypeScript / JavaScript** (principalmente em projetos web e mobile)
+- **React / Next.js**
+- **Java**
+- **HTML / CSS / SCSS**
+- **Supabase** (em projetos com Next.js)
 
 ## Contato
 
