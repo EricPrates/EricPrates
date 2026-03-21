@@ -11,8 +11,8 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
 
 - **FitTrack** — Plataforma para acompanhamento de treinos (calistenia e musculação), com visão de evolução para rede social fitness.  
   Stack: **Next.js / TypeScript / React / Supabase**  
-  https://github.com/EricPrates/FitTrack
-  <img width="1896" height="946" alt="image" src="https://portifolio-eric-prates.vercel.app/src/media/Captura de Tela (164).png" />
+ - https://github.com/EricPrates/FitTrack
+  <img width="1896" height="946" alt="image" src="https://portifolio-eric-prates.vercel.app/src/media/Video_crudFitTrack.mp4" />
   
 - **ZezinEventos** — Projeto em **Java**.  
   https://github.com/EricPrates/ZezinEventos
