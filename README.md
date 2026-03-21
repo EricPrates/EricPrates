@@ -13,6 +13,7 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
   Stack: **Next.js / TypeScript / React / Supabase**  
  - https://github.com/EricPrates/FitTrack
   <img width="1896" height="946" alt="image" src="https://portifolio-eric-prates.vercel.app/src/media/Captura de Tela (164).png" />
+  
   - **BibliotecaApp** - Empréstimos de livros, crud completo de usuários, criação de api backend (React, Node, TS, JS, Next)
   <img width="1896" height="946" alt="image" src="https://portifolio-eric-prates.vercel.app/src/media/Captura de Tela (181).png" />
   
