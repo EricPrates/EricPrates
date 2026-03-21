@@ -2,6 +2,8 @@
 
 Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prática em projetos com **TypeScript/JavaScript** e **Java**. Interesse em construir produtos completos, do front-end às integrações e evolução contínua de funcionalidades.
 
+## Portifólio
+- https://portifolio-eric-prates.vercel.app/
 ## Principais projetos
 
 - **FitTrack** — Plataforma para acompanhamento de treinos (calistenia e musculação), com visão de evolução para rede social fitness.  
@@ -38,3 +40,4 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
 ## Contato
 
 - GitHub: https://github.com/EricPrates
+- email: eric.marasco@viannasempre.com.br
