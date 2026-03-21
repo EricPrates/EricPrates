@@ -4,6 +4,9 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
 
 ## Portifólio
 - https://portifolio-eric-prates.vercel.app/
+<img width="1896" height="946" alt="image" src="https://github.com/user-attachments/assets/0e7005b9-0eb4-481b-be30-4ea3f5ec20ba" />
+
+
 ## Principais projetos
 
 - **FitTrack** — Plataforma para acompanhamento de treinos (calistenia e musculação), com visão de evolução para rede social fitness.  
