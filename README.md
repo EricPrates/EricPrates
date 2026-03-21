@@ -12,17 +12,11 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
 - **FitTrack** — Plataforma para acompanhamento de treinos (calistenia e musculação), com visão de evolução para rede social fitness.  
   Stack: **Next.js / TypeScript / React / Supabase**  
   https://github.com/EricPrates/FitTrack
-
-- **viacep-integration** — Integração/consumo da API ViaCEP.  
-  Stack: **HTML / CSS / JavaScript**  
-  https://github.com/EricPrates/viacep-integration
-
-- **FreteDeCompras** — Implementações em **Java** voltadas a regras/cálculo de frete.  
-  https://github.com/EricPrates/FreteDeCompras
-
+  <img width="1896" height="946" alt="image" src="https://portifolio-eric-prates.vercel.app/src/media/Captura de Tela (164).png" />
+  
 - **ZezinEventos** — Projeto em **Java**.  
   https://github.com/EricPrates/ZezinEventos
-
+    
 - **appVendasMobile** — Aplicação mobile em **JavaScript**.  
   https://github.com/EricPrates/appVendasMobile
 
@@ -31,7 +25,8 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
 
 - **CalculatorPlus_Testes** — Experimentos e testes (CSS/SCSS/HTML/JS e Java).  
   https://github.com/EricPrates/CalculatorPlus_Testes
-
+  
+- **BibliotecaApp** - Empréstimos de livros, crud completo de usuários, criação de api backend (React, Node, TS, JS, Next)
 ## Tecnologias
 
 - **TypeScript / JavaScript** (principalmente em projetos web)
@@ -39,6 +34,7 @@ Desenvolvedor Full Stack com foco em **aplicações web**, com experiência prá
 - **Java**
 - **HTML / CSS / SCSS**
 - **Supabase** (em projetos com Next.js)
+-  ** Node Express
 
 ## Contato
 
