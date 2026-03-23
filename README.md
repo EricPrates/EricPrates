@@ -23,7 +23,9 @@ completos, do frontend às APIs e integrações.
 Plataforma web para acompanhamento de treinos com autenticação de usuários 
 e histórico de exercícios. Visão de evolução para rede social fitness.
 `Next.js` `TypeScript` `React` `Supabase`
+
 ![FitTrack](https://portifolio-eric-prates.vercel.app/src/media/Captura%20de%20Tela%20(164).png)
+
 ### [Sistema de Biblioteca](https://github.com/EricPrates/trabalho-camillo-biblioteca)
 Sistema completo de gerenciamento de biblioteca com autenticação JWT, 
 CRUD de livros e histórico de empréstimos. Deploy em produção.
@@ -31,10 +33,15 @@ CRUD de livros e histórico de empréstimos. Deploy em produção.
 -  [Frontend](https://trabalho-camillo-biblioteca-ludy.vercel.app) — email: `admin@biblioteca.com` senha: `admin123`
 -  [Backend](https://trabalho-camillo-biblioteca.onrender.com)
 
+![Biblioteca](https://portifolio-eric-prates.vercel.app/src/media/Captura%20de%20Tela%20(181).png)
+
 ### [Travel Packages — Vendas de Viagens](https://github.com/EricPrates/TravelPackages)
 App mobile para compra de pacotes de viagem com sistema de carteira 
 (dinheiro + milhas), cashback e autenticação JWT. Backend deployed na AWS.
 `React Native` `JavaScript` `Node.js` `Express` `SQLite` `JWT` `AWS EC2`
+
+![Vendas de Viagens](https://portifolio-eric-prates.vercel.app/src/media/VVcrud2.jfif)
+
 
 ### [Sneaker Store](https://github.com/EricPrates/appVendasMobile)
 App mobile de e-commerce com catálogo, carrinho, favoritos e 
@@ -45,6 +52,8 @@ filtros de busca com persistência em local storage.
 Sistema desktop de gerenciamento de eventos com venda de ingressos 
 e controle de lotação.
 `Java` `MySQL` `Java Swing`
+
+![ZeV](https://portifolio-eric-prates.vercel.app/src/media/zevCrud.png)
 
 ##  Tecnologias
 
