@@ -40,7 +40,7 @@ App mobile para compra de pacotes de viagem com sistema de carteira
 (dinheiro + milhas), cashback e autenticação JWT. Backend deployed na AWS.
 `React Native` `JavaScript` `Node.js` `Express` `SQLite` `JWT` `AWS EC2`
 
-![Vendas de Viagens](https://portifolio-eric-prates.vercel.app/src/media/VVcrud2.jfif)
+![Vendas de Viagens](https://portifolio-eric-prates.vercel.app/src/media/VVcrud2.png)
 
 
 ### [Sneaker Store](https://github.com/EricPrates/appVendasMobile)
