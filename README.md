@@ -23,7 +23,7 @@ completos, do frontend às APIs e integrações.
 Plataforma web para acompanhamento de treinos com autenticação de usuários 
 e histórico de exercícios. Visão de evolução para rede social fitness.
 `Next.js` `TypeScript` `React` `Supabase`
-
+![FitTrack](https://portifolio-eric-prates.vercel.app/src/media/Captura%20de%20Tela%20(164).png)
 ### [Sistema de Biblioteca](https://github.com/EricPrates/trabalho-camillo-biblioteca)
 Sistema completo de gerenciamento de biblioteca com autenticação JWT, 
 CRUD de livros e histórico de empréstimos. Deploy em produção.
