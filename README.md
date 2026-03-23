@@ -17,6 +17,8 @@ completos, do frontend às APIs e integrações.
 ##  Portfólio
 **https://portifolio-eric-prates.vercel.app/**
 
+![Portfolio Preview](https://portifolio-eric-prates.vercel.app/src/media/shotView.png)
+
 ##  Projetos Principais
 
 ### [FitTrack](https://github.com/EricPrates/FitTrack)
@@ -64,6 +66,5 @@ e controle de lotação.
 
 ##  Contato
 -  Portfólio: https://portifolio-eric-prates.vercel.app
-  ![Portfolio Preview](https://portifolio-eric-prates.vercel.app/src/media/shotView.png)
 -  LinkedIn: https://www.linkedin.com/in/eric-prates-dev/
 -  Email: eric.marasco@viannasempre.com.br
